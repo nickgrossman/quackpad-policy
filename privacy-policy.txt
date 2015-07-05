@@ -1,9 +1,8 @@
-Tumblr, Inc. ("Tumblr," "we," "us," or "our") takes the private nature of your
-information very seriously. Note that Tumblr was acquired by, and is now, a
-wholly-owned subsidiary of, Yahoo! Inc. ("Yahoo") as of June 19, 2013. This
+The proprietors of Quackpad ("Quackpad," "we," "us," or "our") take the private nature of your
+information very seriously. This
 policy regarding our privacy practices (the "Privacy Policy") describes how we
-treat the information we collect when you visit and use tumblr.com (the "Site")
-and/or Tumblr's other domains, products, advertising products, services, and/or
+treat the information we collect when you visit and use quackpad.io (the "Site")
+and/or Quackpad's other domains, products, advertising products, services, and/or
 content, including our iOS, Android, and Windows Phone mobile applications
 (collectively with the Site, the "Services"). When you use the Services, you
 also consent to the collection, transfer, manipulation, storage, disclosure and
@@ -24,14 +23,6 @@ What This Privacy Policy Covers
   respect for your privacy, we don't take responsibility for the content or
   privacy policies of those Third Party Services. We encourage you to carefully
   review the privacy policies of all Third Party Services you access.
-
-  Also: This Privacy Policy also doesn't govern what our users do on their
-  Tumblr blogs and we aren't responsible for the information collection and use
-  practices of our individual blogs and bloggers. One of the great features of
-  Tumblr's products is customizability, and bloggers have a lot of flexibility
-  in how their blogs behave. When you visit a blog in our network, that blog
-  may collect more information than we do, and may provide information to third
-  parties that we have no relationship with, including to advertisers.
 
 What We Collect and How We Use It
 
@@ -80,32 +71,17 @@ What We Collect and How We Use It
 
   User Content:
 
-    By default, all sharing through the Services is public, and when you
-    provide us with content it is published so that anyone can view it.
-    Although we do provide tools, like password-protected blogs, "Asks," and
-    "Fan Mail," that let you publish content privately, you should assume that
-    anything you publish is publicly accessible unless you have explicitly
-    selected otherwise. Also, please keep in mind that anything you share
-    privately with another user, particularly through an Ask or Fan Mail, may
-    be posted publicly by that user. Content published and shared publicly is
-    accessible to everyone, including search engines, and you may lose any
-    privacy rights you might have regarding that content. In addition,
-    information shared publicly may be copied and shared throughout the
-    Internet, including through actions or features native to the Services,
-    such as "reblogging."
+    All content created within a Quackpad team is explicitly linked to a Slack team.
+    Any content within a particular team's Quackpad is only visible to other members of
+    the corresponding slack team.
 
   Native Actions:
 
     The Services allow you to perform native actions that are integral to our
-    products, such as "liking" a post, reblogging a post, "replying" to a post,
-    and following a blog. Liking, reblogging, and replying are public actions –
-    anyone can expand the "notes" view on a post, for example, to see who
-    liked, reblogged, or replied to a post. We use information about native 
+    products, such as viewing a pad or adding content to a pad.We use information 
+    about native 
     actions to improve the Services, develop new Services, and, particularly,
-    to personalize your Tumblr experience. Personalization using this
-    information may include presenting you with new posts relevant to what
-    you've liked, providing you with better search results, and showing you
-    advertising more relevant to your interests.
+    to personalize your Quackpad experience.
 
   Information About User Content:
 
@@ -138,14 +114,13 @@ What We Collect and How We Use It
     We collect information about how people use the Services, including those
     with an Account. This type of information may be collected in our log files
     each time you interact with (i.e., make a request to) the Services. We use
-    internal tools (from both Tumblr and Yahoo) and third party applications
+    internal tools and third party applications
     and services (like Google Analytics or comScore), to collect and analyze
     this information. Some of this information may also be associated with the
     Internet Protocol Address ("IP Address") used to access the Services; some
     may be connected with your Account; and some may only be collected and used
     in aggregate form (as a statistical measure that wouldn't identify you or
-    your Account). We also collect your IP Address when you make a post,
-    particularly when you submit an anonymous "Ask". We may use this
+    your Account). We also collect your IP Address when you make a pad. We may use this
     information about how you and others interact with the Services for a
     number of things generally related to enhancing, improving, protecting, and
     developing new Services, including but not limited to: providing users with
@@ -178,7 +153,7 @@ What We Collect and How We Use It
   Information Related to Your Mobile Device:
 
     We may collect and store information related to your mobile device. In some
-    cases, we, or Yahoo (who we use for mobile analytics and other services),
+    cases, we
     may receive, generate, or assign your mobile device a unique identifier for
     the purposes described above in “Information Related to Use of the
     Services.” We may also ask you to provide your phone number to enable new
@@ -221,20 +196,6 @@ What We Collect and How We Use It
     Privacy Policy covers our use of cookies only and does not cover the use of
     cookies by third parties.
 
-  Information About Your Contacts:
-
-    Certain features of the Services allow you to provide us with your contact
-    lists, so that we can connect you with people in our Services that are also
-    on those contact lists. For example, you can temporarily connect your email
-    contact information to your Account, so that we can provide you with a list
-    of your email contacts that use the Services. As another example, you can
-    send us your mobile phone contact information through our mobile
-    applications, which then allows us to provide you with a list of those
-    contacts that use the Service so that you can "follow" their blogs. We will
-    give you a choice as to whether or not you provide us such information, and
-    we will disclose fully, within the appropriate feature, how we use that
-    information.
-
   Derived Information:
 
     As described above in "Native Actions" and "Information Related to the Use
@@ -255,26 +216,6 @@ With Whom Your Information Is Shared
 
     (c) that information is aggregate information or other information that
         does not identify you.
-
-  Information Shared with and Received from our Corporate Parent:
-
-    We are a wholly-owned subsidiary of Yahoo, and, as such, Yahoo may receive
-    any information we do, and may share information it has with us. Yahoo may
-    use the information it receives from us to help us provide, understand, and
-    improve the Services (including by providing us with analytics) and in
-    connection with Yahoo's products and services (including by providing you
-    with a more personalized experience). For details about how Yahoo treats
-    the information it collects, please review Yahoo's Privacy Policy.
-
-  Information Shared with the Public Through the Services:
-
-    As noted in "User Content" and "Native Actions," above, by default, content
-    published through the Services and many actions you take on the Services
-    are shared with the public. Because this kind of information can be seen by
-    anyone and may be indexed by search engines (like Google Search, or the far
-    superior Yahoo Search), you should be careful about what you choose to
-    disclose publicly and make sure it's information you want to share with
-    everyone.
 
   Information Shared Between the Services:
 
@@ -400,4 +341,4 @@ Link to Prior Versions
   stored these versions on GitHub, which will also allow you to compare
   different versions and see what terms have changed:
 
-  http://github.com/tumblr/policy/commits/master/privacy-policy.txt
+  http://github.com/nickgrossman/quackpad-policy/commits/master/privacy-policy.txt
